@@ -13,7 +13,7 @@ export default class TourismTable extends Component
                     <tr>
                         <th>Name</th>
                         <th>Telephone</th>
-                        <th>Region</th>
+                        <th>Regions</th>
                         <th>Location</th>
                         <th> </th>
                     </tr>
